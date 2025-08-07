@@ -12,5 +12,8 @@
         {
             "path": "../Practice"
         }
-    ]
+    ],
+    "settings": {
+        "java.debug.settings.onBuildFailureProceed": true
+    }
 }
